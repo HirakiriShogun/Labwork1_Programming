@@ -1,0 +1,4 @@
+The program is a command-line utility designed to read and manipulate text files 
+based on user-specified parameters. 
+It provides functionality to print lines from a file in both regular and reverse order, 
+allowing users to customize the output according to their preferences.

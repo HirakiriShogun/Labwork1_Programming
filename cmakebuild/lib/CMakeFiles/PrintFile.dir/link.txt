@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libPrintFile.a CMakeFiles/PrintFile.dir/PrintFile.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libPrintFile.a

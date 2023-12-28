@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Labwork1_Programming/cmakebuild/lib",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\PrintFile.dir\\PrintFile.cpp.obj -c C:\\Labwork1_Programming\\lib\\PrintFile.cpp",
+  "file": "C:/Labwork1_Programming/lib/PrintFile.cpp",
+  "output": "lib/CMakeFiles/PrintFile.dir/PrintFile.cpp.obj"
+},
+{
+  "directory": "C:/Labwork1_Programming/cmakebuild/bin",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/labwork1.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\labwork1.dir\\main.cpp.obj -c C:\\Labwork1_Programming\\bin\\main.cpp",
+  "file": "C:/Labwork1_Programming/bin/main.cpp",
+  "output": "bin/CMakeFiles/labwork1.dir/main.cpp.obj"
+}
+]

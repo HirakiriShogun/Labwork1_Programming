@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\labwork1.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\labwork1.dir/objects.a @CMakeFiles\labwork1.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\labwork1.dir/objects.a -Wl,--no-whole-archive -o labwork1.exe -Wl,--out-implib,liblabwork1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\labwork1.dir\linkLibs.rsp
