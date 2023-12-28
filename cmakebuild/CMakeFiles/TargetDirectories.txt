@@ -1,8 +1,0 @@
-C:/Labwork1_Programming/cmakebuild/CMakeFiles/edit_cache.dir
-C:/Labwork1_Programming/cmakebuild/CMakeFiles/rebuild_cache.dir
-C:/Labwork1_Programming/cmakebuild/lib/CMakeFiles/PrintFile.dir
-C:/Labwork1_Programming/cmakebuild/lib/CMakeFiles/edit_cache.dir
-C:/Labwork1_Programming/cmakebuild/lib/CMakeFiles/rebuild_cache.dir
-C:/Labwork1_Programming/cmakebuild/bin/CMakeFiles/labwork1.dir
-C:/Labwork1_Programming/cmakebuild/bin/CMakeFiles/edit_cache.dir
-C:/Labwork1_Programming/cmakebuild/bin/CMakeFiles/rebuild_cache.dir
